@@ -1,0 +1,37 @@
+{
+  "url": "https://scene.cup.com.cn/gfmnewoth/appback/couponAcquire",
+  "headers": {
+    "Host": "scene.cup.com.cn",
+    "Cookie": "route=863dfbcceb2b782d970957eeb435a4bb",
+    "Connection": "keep-alive",
+    "Accept": "application/json, text/plain, */*",
+    "Content-Type": "application/json",
+    "Sec-Fetch-Site": "same-origin",
+    "appNo": "JHXJD044125012",
+    "channelNo": "Q000101",
+    "Sec-Fetch-Mode": "cors",
+    "token": "bj_1e3b54e97f618e6b902adce198779300940185babe3458036496adcf963caebb_sh",
+    "Origin": "https://scene.cup.com.cn",
+    "bankCode": "",
+    "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148  (com.unionpay.chsp) (cordova 4.5.4) (updebug 0) (version 1025) (UnionPay/1.0 CloudPay) (clientVersion 325) (language zh_CN) (languageFamily zh_CN) (upHtml) (walletMode 00)",
+    "Referer": "https://scene.cup.com.cn/gsp_front/2025/online?appNo=JHXJD044125012&channelNo=Q000101",
+    "Accept-Language": "zh-CN,zh-Hans;q=0.9",
+    "Sec-Fetch-Dest": "empty",
+    "Accept-Encoding": "gzip, deflate, br"
+  },
+  "payload": {
+    "areaCode": "350699",
+    "longitude": "117.6710823567708",
+    "latitude": "24.49348985460069",
+    "acquireType": "0",
+    "cateCode": "A02",
+    "activityId": "3",
+    "engGrade": "01",
+    "coordType": "gcj02ll"
+  },
+  "schedule": {
+    "hour": 7,
+    "minute": 59,
+    "second": 58
+  }
+}
