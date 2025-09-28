@@ -5,7 +5,7 @@ import threading
 from datetime import datetime, time as dt_time
 
 # 从配置文件读取
-with open("zzxsjfz95.json", "r", encoding="utf-8") as f:
+with open("config/zzxsjfz95.json", "r", encoding="utf-8") as f:
     config = json.load(f)
 
 url = config["url"]
